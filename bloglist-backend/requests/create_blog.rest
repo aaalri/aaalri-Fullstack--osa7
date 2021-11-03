@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3RpIiwiaWQiOiI2MTgyMDFiOTZjZTRkYzRlY2UwM2E0YTEiLCJpYXQiOjE2MzU5MTAxNjksImV4cCI6MTYzNTkxMzc2OX0.JbnU953ccLZr_iOGwNPGOUOUh6egUzjXMrixMTmVjTU 
+
+{
+    "title": "Johnysa",
+    "author": "Johnysa",
+    "url": "Johnysa",
+    "likes": 3
+}
